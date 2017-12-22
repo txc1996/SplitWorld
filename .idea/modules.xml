@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpitWorld.iml" filepath="$PROJECT_DIR$/.idea/modules/SpitWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpitWorld_main.iml" filepath="$PROJECT_DIR$/.idea/modules/SpitWorld_main.iml" group="SpitWorld" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpitWorld_test.iml" filepath="$PROJECT_DIR$/.idea/modules/SpitWorld_test.iml" group="SpitWorld" />
+    </modules>
+  </component>
+</project>
