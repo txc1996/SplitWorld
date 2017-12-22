@@ -16,7 +16,7 @@ public class ExcelReader {
         List<String> datas = new ArrayList<>();
 
 
-        FileInputStream excelFile = new FileInputStream(new File(filePath));
+        FileInputStream excelFile = new FileInputStream(new File("./"+filePath));
         XSSFWorkbook workbook = new XSSFWorkbook(excelFile);
         XSSFSheet datatypeSheet = workbook.getSheetAt(0);
         Iterator<Row> iterator = datatypeSheet.iterator();

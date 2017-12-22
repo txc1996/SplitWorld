@@ -30,7 +30,7 @@ public class ExcelWriter {
         }
 
 
-        File f = new File(filePath);
+        File f = new File("./"+filePath);
 
         if(!f.exists()){
             File parent_directory = f.getParentFile();
